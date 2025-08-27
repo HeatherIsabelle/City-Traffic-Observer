@@ -1,0 +1,6 @@
+BGO-2J-0001	Yu Ya	Car	Petrol	22th St. La Thar Township
+YGN-1J-1234	Girasol	Truck	Petrol	San Yeik Nyein
+KCN-2K-2367	Ja Seng	Car	Petrol	Tar Mwe
+KCN-4A-4567	Cindy Kuu	Van	Petrol	Inya Road
+MDY-2B-6789	John 	Sport Car	Petrol	Than Lwin St.
+YGN-4H-5673	U Soe Myint	Ambulance	Petrol	Bahan
